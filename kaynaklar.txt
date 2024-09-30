@@ -1,0 +1,2 @@
+https://3adly.blogspot.com/2010/07/prayer-times-calculations-pure-c-code.html
+https://github.com/Hatem-Zehir/Islamic-prayer-times-Arduino
